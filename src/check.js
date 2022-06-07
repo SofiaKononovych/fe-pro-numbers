@@ -22,3 +22,4 @@ console.log(getFlooroCeil(3.235)); // 4
 console.log(getFlooroCeil(4.235)); // 4
 
 console.log(randomizer(2, 5)); // от 2 до 5, не знаю сколько)
+
